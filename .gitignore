@@ -1,0 +1,12 @@
+# Agent working area (specs/plans live here — never tracked). See CLAUDE.md.
+# Only this one directory: a broad `**/specs/` rule would silently hide code
+# directories such as test specs. The linter's `plans-specs` rule guards docs/.
+superpowers/
+# Python (the docs linter)
+__pycache__/
+*.pyc
+# OS / local
+.DS_Store
+.env
+.env.*
+!.env.example
