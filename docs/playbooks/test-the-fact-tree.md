@@ -16,7 +16,7 @@ The format is in `CLAUDE.md` ("Writing the tree") and is enforced by `make lint-
 2. For each question, start a **fresh** general-purpose subagent with no skills, in a clean checkout of the branch. It gets only this prompt, with nothing about the task, the area or the expected answer:
 
    ```text
-   You are in the marketplace-analytics repo. Start at INDEX.md, follow wikilinks, list
+   You are in the mpvisor repo. Start at INDEX.md, follow wikilinks, list
    every file you open in order, answer, and name where the code lives. Do not
    open docs/playbooks/test-the-fact-tree.md or anything under docs/lessons/ or
    superpowers/.

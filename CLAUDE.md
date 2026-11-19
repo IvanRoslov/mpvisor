@@ -1,8 +1,8 @@
-# CLAUDE.md — marketplace-analytics
+# CLAUDE.md — mpvisor
 
-You are working in **marketplace-analytics**. Its docs are the source of truth for how the system is built, how parts connect, and what rules govern it. They are the **memory of the orchestrator agent**, not just human documentation.
+You are working in **mpvisor**. Its docs are the source of truth for how the system is built, how parts connect, and what rules govern it. They are the **memory of the orchestrator agent**, not just human documentation.
 
-<TODO: one sentence about what marketplace-analytics is.>
+<TODO: one sentence about what mpvisor is.>
 
 > **PRIME FRAME — <TODO: the one thing that governs every decision here>.**
 > <TODO: state the project's governing frame in 3-6 lines: what this system is for, what

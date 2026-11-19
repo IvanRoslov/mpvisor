@@ -13,7 +13,7 @@ A rule earns a place here only if breaking it causes damage that is expensive or
 
 - **INV-010 — <TODO>.** <TODO>
 
-## Business logic — marketplace-analytics
+## Business logic — mpvisor
 
 The rules specific to this project's domain. They sit on top of the categories above.
 

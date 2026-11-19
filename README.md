@@ -1,6 +1,6 @@
-# marketplace-analytics
+# mpvisor
 
-<TODO: one sentence about what marketplace-analytics is.>
+<TODO: one sentence about what mpvisor is.>
 
 Docs and code share this repo. The vault is the root-level `*.md` files and `docs/`; everything else is code. A leaf's `Code:` line links the directory of this repo that holds the code for its facts.
 

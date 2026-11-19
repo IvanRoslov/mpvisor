@@ -1,8 +1,8 @@
-# marketplace-analytics Index
+# mpvisor Index
 
 Read this whole. Each fact links one level down; follow only the branches your task touches. The rules for reading and writing the tree are in `CLAUDE.md`.
 
-1. marketplace-analytics: <TODO: one sentence about what marketplace-analytics is.> What it is for, who uses it and how it ships. → [[docs/overview]]
+1. mpvisor: <TODO: one sentence about what mpvisor is.> What it is for, who uses it and how it ships. → [[docs/overview]]
 2. app: <TODO: описание компонента> <TODO: the one fact an agent most needs about it.> → [[docs/app/README]]
 3. The hard rules you must never break are a reference list outside the tree. → [[docs/invariants]]
 4. Which tool to use to build, test and ship. → [[docs/agent-toolbox]]

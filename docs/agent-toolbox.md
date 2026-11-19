@@ -3,7 +3,7 @@ last-verified: 2026-11-19
 canonical: true
 ---
 
-# Agent toolbox — build, deploy & test marketplace-analytics
+# Agent toolbox — build, deploy & test mpvisor
 
 **Point an agent at this file** to give it the tools used to build, configure, deploy, and test the system. This is the canonical procedural reference for tool selection; playbooks link here for concrete commands.
 
